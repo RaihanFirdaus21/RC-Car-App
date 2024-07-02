@@ -1,16 +1,9 @@
-# flutter_firebase
+# IoT-Based RC Car Remote Control Application Using Flutter
 
-A new Flutter project.
+Developed an Android application to control an IoT-based RC car using the Flutter framework and Android Studio, featuring camera and GPS capabilities.
 
-## Getting Started
+# Live Car Camera and Controls
+![home screen](https://github.com/RaihanFirdaus21/RC-Car-App/assets/57182025/998b3fe7-e046-4559-a626-ac757b32d71d)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Live location screen with GPS tracking
+![car gps](https://github.com/RaihanFirdaus21/RC-Car-App/assets/57182025/07665601-048d-4f92-8f91-5b2a912dda5e)
